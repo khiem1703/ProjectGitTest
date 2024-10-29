@@ -1,0 +1,14 @@
+D:\SourceCode\ProjectTestGit\ProjectTestGit\bin\Debug\net8.0\ProjectTestGit.exe
+D:\SourceCode\ProjectTestGit\ProjectTestGit\bin\Debug\net8.0\ProjectTestGit.deps.json
+D:\SourceCode\ProjectTestGit\ProjectTestGit\bin\Debug\net8.0\ProjectTestGit.runtimeconfig.json
+D:\SourceCode\ProjectTestGit\ProjectTestGit\bin\Debug\net8.0\ProjectTestGit.dll
+D:\SourceCode\ProjectTestGit\ProjectTestGit\bin\Debug\net8.0\ProjectTestGit.pdb
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.AssemblyInfoInputs.cache
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.AssemblyInfo.cs
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.csproj.CoreCompileInputs.cache
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.dll
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\refint\ProjectTestGit.dll
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.pdb
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ProjectTestGit.genruntimeconfig.cache
+D:\SourceCode\ProjectTestGit\ProjectTestGit\obj\Debug\net8.0\ref\ProjectTestGit.dll
