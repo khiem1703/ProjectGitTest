@@ -1,1 +1,36 @@
+# Visual Studio
+ProjectTestGit/obj/Debug/
 .vs/
+.vscode/
+*.sln.ide/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.csproj
+*.csproj.user
+*.dbmdl
+*.dbproj
+*.dbproj.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+TestResults/
+*.[Tt]est.dll
+*.[Tt]est.pdb
+
+# Visual Studio Code
+.history/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Packages
+*.nupkg
+packages/
+obj/Debug/
